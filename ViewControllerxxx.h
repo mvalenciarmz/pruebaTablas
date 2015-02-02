@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ViewControllerxxx.h
 //  pruebaTablas
 //
 //  Created by Marcos on 1/29/15.
@@ -8,9 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
-@property (weak, nonatomic) IBOutlet UITableView *myTable;
+@interface ViewControllerxxx : UIViewController
 
 @end
-

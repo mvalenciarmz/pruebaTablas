@@ -412,6 +412,7 @@
 				8DF7CB171A7AFFB100D3D29F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8DF7CB181A7AFFB100D3D29F /* Build configuration list for PBXNativeTarget "pruebaTablasTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +421,7 @@
 				8DF7CB1A1A7AFFB100D3D29F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
